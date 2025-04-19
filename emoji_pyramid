@@ -1,0 +1,7 @@
+def emoji_pyramid(n, emoji="🙂"):
+    i = 1
+    while i <= n:
+        print(emoji*i)   # execute like any other character
+        i += 1
+
+emoji_pyramid(5) # Main execution
