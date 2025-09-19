@@ -1,3 +1,3 @@
 # Python List Fundamentals
 
-This folder covers the basics of Python lists, including creation, indexing, slicing, and common operations.
+This folder is dedicated to exploring the fundamentals of Python lists. Here, you'll find hands-on examples, practical explanations, and best practices for working with dynamic sequences.
