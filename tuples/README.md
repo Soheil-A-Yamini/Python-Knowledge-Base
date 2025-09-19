@@ -1,3 +1,3 @@
 # Python Tuple Fundamentals
 
-This folder covers the basics of Python tuples, including creation, indexing, immutability, and common operations.
+This folder dives into Python `tuples`, showcasing their immutability, use cases, and how they fit into clean, efficient coding practices.
