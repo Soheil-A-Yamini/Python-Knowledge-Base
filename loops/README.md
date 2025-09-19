@@ -1,3 +1,3 @@
 # Python Loop Fundamentals
 
-This folder introduces Python loops, including for-loops and while-loops with practical examples.
+This folder focuses on Python `loops`, providing clear explanations and examples of for and `while` loops, control flow, and iteration patterns.
