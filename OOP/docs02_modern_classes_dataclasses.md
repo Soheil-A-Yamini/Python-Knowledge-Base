@@ -1,4 +1,4 @@
-name=docs/02_modern_classes_dataclasses_typing.md
+
 # 🚀 Modern Python: `dataclasses`, `Enum`, Typing & Forward References
 
 This guide shows how to build clean, type-safe models using:
@@ -210,3 +210,4 @@ mypy .
 - `typing` → clarity & tooling support
 
 ---
+
